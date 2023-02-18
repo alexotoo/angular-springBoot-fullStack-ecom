@@ -1,4 +1,4 @@
-# Full stack application with spring boot
+# Full stack application with spring boot & Angular
 
 ### Front-End - AngularJS
 
