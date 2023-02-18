@@ -1,5 +1,5 @@
 # Full stack application with spring boot & Angular
 
-### Front-End - AngularJS
+### Front-End - Angular
 
 ### Back-End - Spring Boot
