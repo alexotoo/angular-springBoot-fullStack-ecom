@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-SpringBootEcommApplication<spring-boot-ecomm>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.alexotoodev.springbootecomm.SpringBootEcommApplication",
+      "projectName": "spring-boot-ecomm",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}

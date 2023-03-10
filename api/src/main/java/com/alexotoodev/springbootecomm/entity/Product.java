@@ -55,10 +55,10 @@ public class Product {
 
     @Column(name = "date_created")
     @CreationTimestamp
-    private Date date_created;
+    private Date dateCreated;
 
     @Column(name = "last-updated")
     @UpdateTimestamp
-    private Date last_updated;
+    private Date lastUpdated;
 
 }
